@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 22 01:58:01 +0000 2016",
+		"id": 800880987592912900,
+		"id_str": "800880987592912900",
+		"text": "Ahoy There https://t.co/1uQXbNWJsV https://t.co/dbJEANfTct",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1uQXbNWJsV",
+					"expanded_url": "http://bit.ly/2gaSPS5",
+					"display_url": "bit.ly/2gaSPS5",
+					"indices": [
+						11,
+						34
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 800880984585539600,
+					"id_str": "800880984585539584",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Cx1NAyGWEAADCW4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cx1NAyGWEAADCW4.jpg",
+					"url": "https://t.co/dbJEANfTct",
+					"display_url": "pic.twitter.com/dbJEANfTct",
+					"expanded_url": "https://twitter.com/theredhype/status/800880987592912900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 800880984585539600,
+					"id_str": "800880984585539584",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Cx1NAyGWEAADCW4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cx1NAyGWEAADCW4.jpg",
+					"url": "https://t.co/dbJEANfTct",
+					"display_url": "pic.twitter.com/dbJEANfTct",
+					"expanded_url": "https://twitter.com/theredhype/status/800880987592912900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8498372,
+			"id_str": "8498372",
+			"name": "Michael Ryan Norton",
+			"screen_name": "theredhype",
+			"location": "Seattle, WA",
+			"description": "Curator @StartupDigest, Facilitator @StartupWeekend, Hustler @StudioCitizen",
+			"url": "http://t.co/1UThaCFcIr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1UThaCFcIr",
+							"expanded_url": "http://about.me/MichaelRyanNorton",
+							"display_url": "about.me/MichaelRyanNor…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1262,
+			"friends_count": 1137,
+			"listed_count": 65,
+			"created_at": "Tue Aug 28 23:40:00 +0000 2007",
+			"favourites_count": 224,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/24983027/theredhypeTWITbkgd2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/24983027/theredhypeTWITbkgd2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605481768930709504/GupAfhuh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605481768930709504/GupAfhuh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8498372/1433193248",
+			"profile_link_color": "8A8886",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "8F7961",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
+		"created_at": "Mon Nov 21 21:53:09 +0000 2016",
+		"id": 800819364815454200,
+		"id_str": "800819364815454208",
+		"text": "Tahoe https://t.co/VkQxX67sTz https://t.co/e5rQN2n4IT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VkQxX67sTz",
+					"expanded_url": "http://bit.ly/2fjd1QN",
+					"display_url": "bit.ly/2fjd1QN",
+					"indices": [
+						6,
+						29
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 800819363435581400,
+					"id_str": "800819363435581440",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Cx0U99bVEAA1ZG2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cx0U99bVEAA1ZG2.jpg",
+					"url": "https://t.co/e5rQN2n4IT",
+					"display_url": "pic.twitter.com/e5rQN2n4IT",
+					"expanded_url": "https://twitter.com/theredhype/status/800819364815454208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 767,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 767,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 800819363435581400,
+					"id_str": "800819363435581440",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Cx0U99bVEAA1ZG2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cx0U99bVEAA1ZG2.jpg",
+					"url": "https://t.co/e5rQN2n4IT",
+					"display_url": "pic.twitter.com/e5rQN2n4IT",
+					"expanded_url": "https://twitter.com/theredhype/status/800819364815454208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 767,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 767,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8498372,
+			"id_str": "8498372",
+			"name": "Michael Ryan Norton",
+			"screen_name": "theredhype",
+			"location": "Seattle, WA",
+			"description": "Curator @StartupDigest, Facilitator @StartupWeekend, Hustler @StudioCitizen",
+			"url": "http://t.co/1UThaCFcIr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1UThaCFcIr",
+							"expanded_url": "http://about.me/MichaelRyanNorton",
+							"display_url": "about.me/MichaelRyanNor…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1262,
+			"friends_count": 1137,
+			"listed_count": 65,
+			"created_at": "Tue Aug 28 23:40:00 +0000 2007",
+			"favourites_count": 224,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/24983027/theredhypeTWITbkgd2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/24983027/theredhypeTWITbkgd2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605481768930709504/GupAfhuh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605481768930709504/GupAfhuh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8498372/1433193248",
+			"profile_link_color": "8A8886",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "8F7961",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl"
+	},
+	{
 		"created_at": "Sun Nov 20 16:23:16 +0000 2016",
 		"id": 800373957157273600,
 		"id_str": "800373957157273600",
