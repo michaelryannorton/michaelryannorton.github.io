@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 04 15:37:28 +0000 2017",
+		"id": 849284793418252300,
+		"id_str": "849284793418252289",
+		"text": "Major cities whose airports are an hour away—you blew it!  #SanDiegoBestDiego",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SanDiegoBestDiego",
+					"indices": [
+						59,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8498372,
+			"id_str": "8498372",
+			"name": "Michael Ryan Norton",
+			"screen_name": "theredhype",
+			"location": "Seattle, WA",
+			"description": "Startup Consultant • Facilitator @StartupWeekend • Curator @StartupDigest • Hustler @StudioCitizen",
+			"url": "https://t.co/1UThaCWO71",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1UThaCWO71",
+							"expanded_url": "http://about.me/MichaelRyanNorton",
+							"display_url": "about.me/MichaelRyanNor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1328,
+			"friends_count": 1204,
+			"listed_count": 67,
+			"created_at": "Tue Aug 28 23:40:00 +0000 2007",
+			"favourites_count": 239,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2798,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/24983027/theredhypeTWITbkgd2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/24983027/theredhypeTWITbkgd2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605481768930709504/GupAfhuh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605481768930709504/GupAfhuh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8498372/1433193248",
+			"profile_link_color": "8A8886",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "8F7961",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 04 15:35:32 +0000 2017",
+		"id": 849284306212147200,
+		"id_str": "849284306212147200",
+		"text": "What does it mean? #TurnOffYourScreen #SockDemon https://t.co/IXUIktzgmQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TurnOffYourScreen",
+					"indices": [
+						19,
+						37
+					]
+				},
+				{
+					"text": "SockDemon",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 849284297953603600,
+					"id_str": "849284297953603586",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/C8lDkbzXcAIv_Lf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8lDkbzXcAIv_Lf.jpg",
+					"url": "https://t.co/IXUIktzgmQ",
+					"display_url": "pic.twitter.com/IXUIktzgmQ",
+					"expanded_url": "https://twitter.com/theredhype/status/849284306212147200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849284297953603600,
+					"id_str": "849284297953603586",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/C8lDkbzXcAIv_Lf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8lDkbzXcAIv_Lf.jpg",
+					"url": "https://t.co/IXUIktzgmQ",
+					"display_url": "pic.twitter.com/IXUIktzgmQ",
+					"expanded_url": "https://twitter.com/theredhype/status/849284306212147200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8498372,
+			"id_str": "8498372",
+			"name": "Michael Ryan Norton",
+			"screen_name": "theredhype",
+			"location": "Seattle, WA",
+			"description": "Startup Consultant • Facilitator @StartupWeekend • Curator @StartupDigest • Hustler @StudioCitizen",
+			"url": "https://t.co/1UThaCWO71",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1UThaCWO71",
+							"expanded_url": "http://about.me/MichaelRyanNorton",
+							"display_url": "about.me/MichaelRyanNor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1328,
+			"friends_count": 1204,
+			"listed_count": 67,
+			"created_at": "Tue Aug 28 23:40:00 +0000 2007",
+			"favourites_count": 239,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2798,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/24983027/theredhypeTWITbkgd2.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/24983027/theredhypeTWITbkgd2.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605481768930709504/GupAfhuh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605481768930709504/GupAfhuh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8498372/1433193248",
+			"profile_link_color": "8A8886",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "8F7961",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 03 01:23:57 +0000 2017",
 		"id": 848707611130302500,
 		"id_str": "848707611130302464",
